@@ -2,7 +2,7 @@
 
 ## Overview
 
-Swift UI screens
+Swift UI screens.
 
 ## LICENSE
 
